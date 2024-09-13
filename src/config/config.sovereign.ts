@@ -32,12 +32,12 @@ export const networks: NetworkType[] = [
     default: true,
     id: 'sovereign',
     name: 'Sovereign',
-    apiAddress: 'https://api-sovereign-test.elrond.ro',
+    apiAddress: 'https://testnet-api.cyber.network',
     gatewayUrl: '',
-    extrasApi: 'https://extras-api-sovereign-test.elrond.ro',
-    sampleAuthenticatedDomains: ['https://api-sovereign-test.elrond.ro'],
+    extrasApi: 'https://testnet-extras-api.cyber.network',
+    sampleAuthenticatedDomains: ['https://testnet-api.cyber.network'],
     sovereignContractAddress: '',
-    walletAddress: 'https://wallet.voyager1.dev',
+    walletAddress: 'https://testnet-wallet.cyber.network',
     WEGLDid: 'WEGLD-bd4d79'
   },
   {
